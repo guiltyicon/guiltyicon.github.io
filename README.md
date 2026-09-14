@@ -2,12 +2,12 @@ Add the bot: [here.](https://discord.com/oauth2/authorize?client_id=154844456260
 
 # Iconoclast Bot
 
-Iconoclast is a bot for discord that offers an array of different utilities and features.
-Some (not all) features of the bot are:
-Auto-deletion of messages.
-Easy webhook-proxying of messages so messages can be sent separately from the account of the user sending the message.
-Easily-readable message logs that are natural and not crowded via embeds.
-
+Iconoclast is a bot for discord that offers an array of different utilities and features.  
+Some (not all) features of the bot are:  
+Auto-deletion of messages.  
+Easy webhook-proxying of messages so messages can be sent separately from the account of the user sending the message.  
+Easily-readable message logs that are natural and not crowded via embeds.  
+  
 # Terms of Service for Iconoclast
 
 1. These Terms of Service apply to every user who interacts with, invokes, or utilizes the Iconoclast bot, as well as any server administrator who adds the bot to their Discord server. By using Iconoclast, you agree to these terms.
@@ -16,8 +16,8 @@ Easily-readable message logs that are natural and not crowded via embeds.
 4. Users and server administrators are solely responsible for their own actions and any violations of these terms caused while using Iconoclast.
 5. Iconoclast and its developers are provided "as is" without warranty of any kind. We are not responsible for any data loss, server disruptions, or damages resulting from the use, downtime, or malfunction of the bot.
 6. We reserve the right to modify these terms at any time. Continued use of Iconoclast following any updates constitutes your acceptance of the revised terms. Major changes will most likely be announced in the official discord server for Iconoclast.
-7. We reserve the right to modify, alter, suspend, or discontinue any feature, command, or the entirety of Iconoclast at any time, for any reason, with or without notice. We are under no obligation to maintain, update, or preserve any aspect of the bot or its stored data.
-
+7. We reserve the right to modify, alter, suspend, or discontinue any feature, command, or the entirety of Iconoclast at any time, for any reason, with or without notice. We are under no obligation to maintain, update, or preserve any aspect of the bot or its stored data.  
+  
 # Privacy Policy for Iconoclast
 
 1. To provide its features, Iconoclast collects and processes certain Discord data. This includes User IDs, Guild (Server) IDs, Channel IDs, message content, and command interaction metadata.
