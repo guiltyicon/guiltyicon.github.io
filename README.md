@@ -1,4 +1,4 @@
-Add the bot: https://discord.com/oauth2/authorize?client_id=1548444562609938553
+Add the bot: [here.](https://discord.com/oauth2/authorize?client_id=1548444562609938553)
 
 # Iconoclast Bot
 
