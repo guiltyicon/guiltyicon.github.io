@@ -3,10 +3,12 @@ Add the bot: [here.](https://discord.com/oauth2/authorize?client_id=154844456260
 # Iconoclast Bot
 
 Iconoclast is a bot for discord that offers an array of different utilities and features.  
-Some (not all) features of the bot are:  
+Some features of the bot are:  
 Auto-deletion of messages.  
 Easy webhook-proxying of messages so messages can be sent separately from the account of the user sending the message.  
 Easily-readable message logs that are natural and not crowded via embeds.  
+Basic moderation systems.  
+And more.  
   
 # Terms of Service for Iconoclast
 
