@@ -7,7 +7,8 @@ Some features of the bot are:
 Auto-deletion of messages.  
 Easy user webhook-proxying of messages and images.  
 Easily-readable message logs that are natural and not crowded via embeds.  
-Basic moderation systems.  
+Moderation and automod systems.  
+And experience system with server and global leaderboards.  
 And more.  
   
 # Terms of Service for Iconoclast
