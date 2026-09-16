@@ -9,6 +9,8 @@ Easy user webhook-proxying of messages and images.
 Easily-readable message logs that are natural and not crowded via embeds.  
 Moderation and automod systems.  
 An experience system with server and global leaderboards.  
+Easy to setup role menus.  
+Tickets.  
 And more.  
   
 # Terms of Service for Iconoclast
