@@ -33,4 +33,3 @@ And more.
 3. All collected data is stored securely.
 4. We do not sell, rent, or share your personal data with third parties. All data processing is kept within the Iconoclast Team.
 5. Iconoclast complies with Discord’s Developer Terms of Service and Privacy Policy.
-6. We reserve the right to use any data collected by Iconoclast in any manner we choose.
