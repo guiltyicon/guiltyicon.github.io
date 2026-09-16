@@ -11,6 +11,8 @@ Moderation and automod systems.
 An experience system with server and global leaderboards.  
 Easy to setup role menus.  
 Tickets.  
+In-depth Karma system. 
+Hall of Fame and Shame.  
 And more.  
   
 # Terms of Service for Iconoclast
