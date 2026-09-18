@@ -7,4 +7,5 @@
 5. Users and server administrators are solely responsible for their own actions and any violations of these terms caused while using Iconoclast.
 6. Iconoclast and its developers are provided "as is" without warranty of any kind. We are not responsible for any data loss, server disruptions, or damages resulting from the use, downtime, or malfunction of the bot.
 7. We reserve the right to modify these terms at any time. Continued use of Iconoclast following any updates constitutes your acceptance of the revised terms. Major changes will most likely be announced in the official discord server for Iconoclast.
-8. We reserve the right to modify, alter, suspend, or discontinue any feature, command, or the entirety of Iconoclast at any time, for any reason, with or without notice. We are under no obligation to maintain, update, or preserve any aspect of the bot or its stored data.  
+8. We reserve the right to modify, alter, suspend, or discontinue any feature, command, or the entirety of Iconoclast at any time, for any reason, with or without notice. We are under no obligation to maintain, update, or preserve any aspect of the bot or its stored data.
+9. Users must not sell anything to do with the bot, this includes selling user accounts with high currency value, or selling premium account usage.
