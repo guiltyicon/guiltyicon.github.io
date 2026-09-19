@@ -36,6 +36,6 @@ Some of the features of Iconoclast are:
 ### Message Logs
 * **Message Logs:** Through webhooks, setup an easily readable message log. Edits can also be recorded through the message log. Messages sent through webhook proxies will also be recorded in the message log.
 
-### And much more! Including, but not limited to, a configurable Hall of Fame and Hall of Shame, configurable role menus, and ticket system.
+### And much more! Including, but not limited to, Join to Create voice channels, a configurable Hall of Fame and Hall of Shame, configurable role menus, and ticket system.
 
 ## Add the bot: [here.](https://discord.com/oauth2/authorize?client_id=1548444562609938553)
