@@ -16,9 +16,9 @@ Some of the features of Iconoclast are:
 * **Autopurging:** The bot can be setup to purge channel messages, keep only the 50 most recent messages, deleting all old and non-pinned messages regularly.
 
 ### Bot Economy
-* **Stock System:** The Iconoclast bot has a stock market built into it based on server activity and user investments into servers.
+* **Stock System:** The Iconoclast bot has a stock market built into it based on server activity that users can invest in.
 * **Stock Charts:** Users can view the stock chart of the current server, showing how the server's stock has changed in the last 24 hours.
-* **Economy:** Users can invest into the stock of different servers, buy roles from server markets, and view multiple economic leaderboards.
+* **Economy:** Users can invest into the stock of different servers, earn currency in the bot through commands, buy items from the bot's shop, buy roles from server markets, and view multiple economic leaderboards.
 
 ### Karma
 * **Karma System:** Users have karma that can be changed via configurable reactions, you can view the highest and lowest karma members on a server.
