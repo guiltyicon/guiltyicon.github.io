@@ -25,7 +25,9 @@ Some of the features of Iconoclast are:
 
 ### Experience System
 * **Dual Progression Tracking:** Earn XP both locally within specific servers and globally across all servers with the bot.
+* **Voice XP:** Tracks and rewards XP in voice channels, can be disabled by server owners.
 * **Automatic Role Rewards:** Server administrators can link specific roles to milestone levels, which are automatically assigned as users level up.
+* **Customizable XP Cards and Leaderboard Positions:** Customize your XP card and your position in XP and economic leaderboards with premium.
 
 ### Moderation
 * **Automod:** An automod that can punish spammers and advertisers, with configurable punishment duration and spam time-frames.
