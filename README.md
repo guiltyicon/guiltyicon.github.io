@@ -29,6 +29,11 @@ Some of the features of Iconoclast are:
 * **Automatic Role Rewards:** Server administrators can link specific roles to milestone levels, which are automatically assigned as users level up.
 * **Customizable XP Cards and Leaderboard Positions:** Customize your XP card and your position in XP and economic leaderboards with premium.
 
+### Fun
+* **Image/Gif Commands:** Several commands to add captions to media and apply effects to media.
+* **Marriage:** Keep track of long family trees between users.
+* **Fun Commands:** Fun commands like 8ball, shipping, coinflip, quoting, and more.
+
 ### Moderation
 * **Automod:** An automod that can punish spammers and advertisers, with configurable punishment duration and spam time-frames.
 * **Banning:** Ban users one at a time or ban multiple users at once in a single command.
