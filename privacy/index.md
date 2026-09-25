@@ -40,7 +40,7 @@ Information is retained only for as long as it is required to provide Iconoclast
 
 ## 5. Your Data
 
-You may request access to or deletion of data associated with your Discord account by contacting us. We may require reasonable verification before processing a request.
+You may access or delete data associated with your Discord account directly through the Iconoclast bot via /data delete commands.
 
 Some information may be retained where necessary for security, abuse prevention, legal obligations, or other legitimate purposes.
 
