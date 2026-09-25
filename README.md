@@ -3,6 +3,7 @@
 # Iconoclast Bot
 
 Iconoclast is a bot for discord that has a vast array of utilities and functions.  
+Iconoclast has several local server features and global user features.  
 The bot is extremely modular, allowing you to select which features of the bot you want.  
 Almost all features of the bot can be toggled.  
 
